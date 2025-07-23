@@ -1,5 +1,5 @@
 export const extension = {
-    id: 'li8-builtin-weatherapi',
+    id: 'weather-api',
     name: 'Weather API',
     description: 'Provides a simple node to fetch current weather data from WeatherAPI.com.',
     version: '1.0.2',
